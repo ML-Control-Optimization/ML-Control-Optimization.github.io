@@ -1,6 +1,6 @@
 # SHU Shortcourse on *Principles of AI for Control and Optimization*
 
-## The Time Schedule 
+# The Time Schedule 
 
 | Date | Lecturer | Lecture |
 | --- | --- | --- | ---- |
@@ -31,16 +31,18 @@ All times are Beijing time.
  * :camera: - prerecorded session
  * :clipboard: - exercise (on your own)
 
-## Details of the Lecture
+# Links to the Videos
 
-### 1 Introduction
+# Details of the Lecture
 
-### 2 
+## 1 Introduction
 
-### 20 Studying abroad (maybe a Master in Magdeburg)
+## 2 
+
+## 20 Studying abroad (maybe a Master in Magdeburg)
 
 * [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
-* [Whiteboard with the notes](blackboards/83-study-abroad.png)
+* [Whiteboard with the notes](files/20-study-abroad.png)
 
 
 # Little Chinese Dictionary
