@@ -1,4 +1,29 @@
-# Time Schedule
+# SHU Shortcourse on *Principles of AI for Control and Optimization*
+
+## The Time Schedule 
+
+| Lecture | Date | Lecturer | Remarks |
+| --- | --- | --- | ---- |
+| 1   | 07.09. | TF |  | 
+| 2   | 09.09. | TF |  |
+| 3   | 14.09. | TF |  |
+| 4   | 16.09. | TF |  |
+| 5   | 21.09. | TF | `*` |
+| 6   | 23.09. | TF |  |
+| 7   | 28.09. | TF |  |
+| 8   | 30.09. | TF |  |
+| 9   | 05.10. | EZ | `*` |
+| 10  | 07.10. | EZ | `*` | 
+| 11  | 12.10. | EZ |  |  
+| 12  | 14.10. | EZ |  |  
+| 13  | 19.10. | EZ |  |  
+| 14  | 21.10. | EZ |  |  
+| 15  | 26.10. | EZ |  |  
+| 16  | 28.10. | EZ |  |  
+| 17  | 02.11. | JH | `**` | 
+| 18  | 04.11. | JH | `**` | 
+| 19  | 09.11. | JH | `**` | 
+| 20  | 11.11. | JH | `**` |
 
 | Date | Times | Content |
 | ---- | :-----: | ------- |
@@ -29,7 +54,7 @@ All times are Beijing time.
  * :camera: - prerecorded session
  * :clipboard: - exercise (on your own)
 
-# The Lecture
+## Details of the Lecture
 
 :clipboard: [The script (might get updates in the course of the lecture)](shmorsc.pdf)
 
