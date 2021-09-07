@@ -4,7 +4,7 @@
 
 | Date | Lecturer | Lecture |
 | --- | --- | --- | ---- |
-| 09-07: 15:00--16:40 | TF | 1 Introduction  | 
+| 09-07: 15:00--16:40 | TF/JH | 1 Introduction  | 
 | 09-09: 15:00--16:40 | TF |  |
 | 09-14: 15:00--16:40 | TF |  |
 | 09-16: 15:00--16:40 | TF |  |
@@ -36,6 +36,13 @@ All times are Beijing time.
 # Details of the Lecture
 
 ## 1 Introduction
+
+### 01-02 PDEs, Dynamical Systems, CNN
+
+Resources
+
+ * Presentation `01-02-intro-CNN-NSE.pdf`
+ * Whiteboard notes `01-02-pdes-disc-dynsys.jpg`
 
 ## 2 
 
