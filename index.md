@@ -39,7 +39,7 @@ All times are Beijing time.
 
 ### 01-02 PDEs, Dynamical Systems, CNN
 
-Resources
+**Resources**
 
  * Presentation `01-02-intro-CNN-NSE.pdf`
  * Whiteboard notes `01-02-pdes-disc-dynsys.jpg`
