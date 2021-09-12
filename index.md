@@ -4,27 +4,27 @@
 
 | Date | Lecturer | Lecture |
 | --- | --- | --- | ---- |
-| 09-07: 15:00--16:40 | TF/JH | 1 Introduction  | 
-| 09-09: 15:00--16:40 | TF |  |
-| 09-14: 15:00--16:40 | TF |  |
-| 09-16: 15:00--16:40 | TF |  |
-| ~~09-21: 15:00--16:40~~ | TF | **Note**: cancelled |
-| 09-23: 15:00--16:40 | TF |  |
-| 09-28: 15:00--16:40 | TF |  |
-| 09-30: 15:00--16:40 | TF |  |
-| ~~10-05: 15:00--16:40~~ | EZ | **Note**: cancelled |
-| ~~10-07: 15:00--16:40~~ | EZ | **Note**: shifted to Saturday | 
-| 10-09: 15:00--16:40 | EZ | **Note**: Saturday | 
-| 10-12: 15:00--16:40 | EZ |  |  
-| 10-14: 15:00--16:40 | EZ |  |  
-| 10-19: 15:00--16:40 | EZ |  |  
-| 10-21: 15:00--16:40 | EZ |  |  
-| 10-26: 15:00--16:40 | EZ |  |  
-| 10-28: 15:00--16:40 | EZ |  |  
-| 11-02: 15:00--16:40 | JH | 17 Convolutional Neural Networks | 
-| 11-04: 15:00--16:40 | JH | 18 Introduction to `PyTorch` | 
-| 11-09: 15:00--16:40 | JH | 19 Physics Informed Neural Network | 
-| 11-11: 15:00--16:40 | JH | 20 Wrapup and *Studying in Germany* |
+| September 07: 15:00--16:40 | TF/JH | 1 Introduction  | 
+| September 09: 15:00--16:40 | TF |  |
+| September 14: 15:00--16:40 | TF |  |
+| September 16: 15:00--16:40 | TF |  |
+| ~~September 21: 15:00--16:40~~ | TF | **Note**: cancelled |
+| September 23: 15:00--16:40 | TF |  |
+| September 28: 15:00--16:40 | TF |  |
+| September 30: 15:00--16:40 | TF |  |
+| ~~October 05: 15:00--16:40~~ | EZ | **Note**: cancelled |
+| ~~October 07: 15:00--16:40~~ | EZ | **Note**: shifted to Saturday | 
+| October 09: 15:00--16:40 | EZ | **Note**: Saturday | 
+| October 12: 15:00--16:40 | EZ |  |  
+| October 14: 15:00--16:40 | EZ |  |  
+| October 19: 15:00--16:40 | EZ |  |  
+| October 21: 15:00--16:40 | EZ |  |  
+| October 26: 15:00--16:40 | EZ |  |  
+| October 28: 15:00--16:40 | EZ |  |  
+| November 02: 15:00--16:40 | JH | 17 Convolutional Neural Networks | 
+| November 04: 15:00--16:40 | JH | 18 Introduction to `PyTorch` | 
+| November 09: 15:00--16:40 | JH | 19 Physics Informed Neural Network | 
+| November 11: 15:00--16:40 | JH | 20 Wrapup and *Studying in Germany* |
 
 All times are Beijing time.
 
