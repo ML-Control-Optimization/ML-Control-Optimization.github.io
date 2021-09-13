@@ -28,9 +28,11 @@
 
 All times are Beijing time.
 
+<!--
  * :microphone: - live session
  * :camera: - prerecorded session
  * :clipboard: - exercise (on your own)
+ -->
 
 # Links to the Course Materials
 
