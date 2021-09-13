@@ -6,7 +6,7 @@
 | --- | --- | --- | ---- |
 | September 07: 15:00--16:40 | TF/JH | 01 Introduction  | 
 | September 09: 15:00--16:40 | TF | 02 Questions and Challenges |
-| September 14: 15:00--16:40 | TF |  |
+| September 14: 15:00--16:40 | TF | [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |
 | September 16: 15:00--16:40 | TF |  |
 | ~~September 21: 15:00--16:40~~ | TF | **Note**: cancelled |
 | September 23: 15:00--16:40 | TF |  |
@@ -32,7 +32,9 @@ All times are Beijing time.
  * :camera: - prerecorded session
  * :clipboard: - exercise (on your own)
 
-# Links to the Videos
+# Links to the Course Materials
+
+All material can be [found here](https://owncloud.gwdg.de/index.php/s/KTheq78enAQklZs). With file names corresponding to the lectures. Please also see the details of every lecture.
 
 # Details of the Lecture
 
