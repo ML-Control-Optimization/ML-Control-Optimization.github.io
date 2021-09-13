@@ -4,8 +4,8 @@
 
 | Date | Lecturer | Lecture |
 | --- | --- | --- | ---- |
-| September 07: 15:00--16:40 | TF/JH | 1 Introduction  | 
-| September 09: 15:00--16:40 | TF |  |
+| September 07: 15:00--16:40 | TF/JH | 01 Introduction  | 
+| September 09: 15:00--16:40 | TF | 02 Questions and Challenges |
 | September 14: 15:00--16:40 | TF |  |
 | September 16: 15:00--16:40 | TF |  |
 | ~~September 21: 15:00--16:40~~ | TF | **Note**: cancelled |
@@ -36,7 +36,14 @@ All times are Beijing time.
 
 # Details of the Lecture
 
-## 1 Introduction
+## 01 Introduction
+
+### 01-01 Introduction to Machine Learning and Optimization
+
+**Resources**
+
+ * Presentation `01_Introduction.pdf`
+ * Whiteboard notes `01-02-pdes-disc-dynsys.jpg`
 
 ### 01-02 PDEs, Dynamical Systems, CNN
 
@@ -45,7 +52,12 @@ All times are Beijing time.
  * Presentation `01-02-intro-CNN-NSE.pdf`
  * Whiteboard notes `01-02-pdes-disc-dynsys.jpg`
 
-## 2 
+## 02 Challenges-Tasks on Basic Notions of Machine Learning
+
+**Resources**
+
+ * Presentation `02_ChallengeTasks_Introduction.pdf`
+
 
 ## 20 Studying abroad (maybe a Master in Magdeburg)
 
