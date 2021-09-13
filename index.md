@@ -4,8 +4,8 @@
 
 | Date | Lecturer | Lecture |
 | --- | --- | --- | ---- |
-| September 07: 15:00--16:40 | TF/JH | 01 Introduction  | 
-| September 09: 15:00--16:40 | TF | 02 Questions and Challenges |
+| September 07: 15:00--16:40 | TF/JH | **01 Introduction**  | 
+| September 09: 15:00--16:40 | TF | **02 Questions and Challenges** |
 | September 14: 15:00--16:40 | TF | [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |
 | September 16: 15:00--16:40 | TF | [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
 | ~~September 21: 15:00--16:40~~ | TF | **Note**: cancelled |
@@ -21,10 +21,10 @@
 | October 21: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
 | October 26: 15:00--16:40 | EZ |[:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |  
 | October 28: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
-| November 02: 15:00--16:40 | JH | 17 Convolutional Neural Networks [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
-| November 04: 15:00--16:40 | JH | 18 Introduction to `PyTorch` [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) | 
-| November 09: 15:00--16:40 | JH | 19 Physics Informed Neural Network [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
-| November 11: 15:00--16:40 | JH | 20 Wrapup and *Studying in Germany* [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
+| November 02: 15:00--16:40 | JH | **17 Convolutional Neural Networks** [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
+| November 04: 15:00--16:40 | JH | **18 Introduction to `PyTorch`** [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) | 
+| November 09: 15:00--16:40 | JH | **19 Physics Informed Neural Network** [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
+| November 11: 15:00--16:40 | JH | **20 Wrapup and *Studying in Germany*** [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
 
 All times are Beijing time.
 
