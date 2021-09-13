@@ -7,24 +7,24 @@
 | September 07: 15:00--16:40 | TF/JH | 01 Introduction  | 
 | September 09: 15:00--16:40 | TF | 02 Questions and Challenges |
 | September 14: 15:00--16:40 | TF | [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |
-| September 16: 15:00--16:40 | TF |  |
+| September 16: 15:00--16:40 | TF |  | [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
 | ~~September 21: 15:00--16:40~~ | TF | **Note**: cancelled |
-| September 23: 15:00--16:40 | TF |  |
-| September 28: 15:00--16:40 | TF |  |
-| September 30: 15:00--16:40 | TF |  |
+| September 23: 15:00--16:40 | TF | [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
+| September 28: 15:00--16:40 | TF | [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |
+| September 30: 15:00--16:40 | TF | [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
 | ~~October 05: 15:00--16:40~~ | EZ | **Note**: cancelled |
 | ~~October 07: 15:00--16:40~~ | EZ | **Note**: shifted to Saturday | 
-| October 09: 15:00--16:40 | EZ | **Note**: Saturday | 
-| October 12: 15:00--16:40 | EZ |  |  
-| October 14: 15:00--16:40 | EZ |  |  
-| October 19: 15:00--16:40 | EZ |  |  
-| October 21: 15:00--16:40 | EZ |  |  
-| October 26: 15:00--16:40 | EZ |  |  
-| October 28: 15:00--16:40 | EZ |  |  
-| November 02: 15:00--16:40 | JH | 17 Convolutional Neural Networks | 
-| November 04: 15:00--16:40 | JH | 18 Introduction to `PyTorch` | 
-| November 09: 15:00--16:40 | JH | 19 Physics Informed Neural Network | 
-| November 11: 15:00--16:40 | JH | 20 Wrapup and *Studying in Germany* |
+| October 09: 15:00--16:40 | EZ | **Note**: Saturday [:loop: VooV: 770 795 439](https://meeting.tencent.com/dm/e9a3iaLOU3vD?rs=25)| 
+| October 12: 15:00--16:40 | EZ |[:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |  
+| October 14: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
+| October 19: 15:00--16:40 | EZ |[:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |  
+| October 21: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
+| October 26: 15:00--16:40 | EZ |[:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |  
+| October 28: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
+| November 02: 15:00--16:40 | JH | 17 Convolutional Neural Networks [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
+| November 04: 15:00--16:40 | JH | 18 Introduction to `PyTorch` [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) | 
+| November 09: 15:00--16:40 | JH | 19 Physics Informed Neural Network [:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) | 
+| November 11: 15:00--16:40 | JH | 20 Wrapup and *Studying in Germany* [:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |
 
 All times are Beijing time.
 
