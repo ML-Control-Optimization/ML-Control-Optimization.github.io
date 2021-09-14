@@ -1,4 +1,12 @@
-# SHU Shortcourse on *Principles of AI for Control and Optimization*
+# SHU Short Course on *Principles of AI for Control and Optimization*
+
+This extended short course introduces and discusses basic concepts of machine learning and how they relate to principles and applications of control and optimization theory.
+
+The first 4 weeks will be held given by Timm Faulwasser and team and focus on optimization aspects of the training of neural networks.
+
+The second part is provided by Enrique Zuazua and directed towards control of dynamical systems and how this aligns with the theory of supervised learning.
+
+The last part by Jan Heiland considers applications of neural networks for the formulation of control tasks.
 
 # The Time Schedule 
 
