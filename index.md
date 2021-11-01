@@ -30,9 +30,9 @@ The last part by Jan Heiland considers applications of neural networks for the f
 | October 26: 15:00--16:40 | EZ |[:loop: VooV: 684 7858 1174](https://meeting.tencent.com/dm/hY2m1b5WOFfo) |  
 | October 28: 15:00--16:40 | EZ |[:loop: VooV: 714 153 178](https://meeting.tencent.com/dm/ZPn39wWg2aG0) |  
 | November 02: 15:00--16:40 | JH | **17 Physics Informed Neural Network** [:loop: BBB](https://meet.gwdg.de/b/jan-cgg-kaa-a4k) |
-| November 09: 15:00--16:40 | JH | **18 Convolutional Neural Networks** [:loop: Zoom: 69133989530](https://ovgu.zoom.us/j/69133989530) | 
-| November 11: 15:00--16:40 | JH | **19 Wrapup and *Studying in Germany*** [:loop: BBB](https://meet.gwdg.de/b/jan-cgg-kaa-a4k) |
-| November 04: 15:00--16:40 | JH | **20 Introduction to `PyTorch`** [:loop: Zoom: 69133989530](https://ovgu.zoom.us/j/69133989530) | 
+| November 04: 15:00--16:40 | JH | **18 Convolutional Neural Networks** [:loop: Zoom: 69133989530](https://ovgu.zoom.us/j/69133989530) | 
+| November 09: 15:00--16:40 | JH | **19 Wrapup and *Studying in Germany*** [:loop: BBB](https://meet.gwdg.de/b/jan-cgg-kaa-a4k) |
+| November 11: 15:00--16:40 | JH | **20 Introduction to `PyTorch`** [:loop: Zoom: 69133989530](https://ovgu.zoom.us/j/69133989530) | 
 
 All times are Beijing time.
 
