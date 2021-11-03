@@ -83,6 +83,19 @@ All material can be [found here](https://owncloud.gwdg.de/index.php/s/KTheq78enA
 
  * Presentation/Handout `05_GaussianProcess*.pdf`
 
+## 17 Physics Informed Neural Networks -- PINN
+
+1. Wrapup on how Neural Networks can assist with (or even replace) the costly simulation of PDEs. 
+
+2. Little preview on Data encoding by NN.
+
+3. What constitutes a Neural Network and how to make it *physics informed*.
+
+4. Training an backward mode to compute the gradients for the optimization.
+
+ * Paper by [Karniadakis and coauthors](https://arxiv.org/abs/2105.09506)
+ * Presentation: `17-0***.jpg`
+
 ## 20 Studying abroad (maybe a Master in Magdeburg)
 
 * [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
