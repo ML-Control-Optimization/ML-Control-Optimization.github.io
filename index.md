@@ -96,10 +96,34 @@ All material can be [found here](https://owncloud.gwdg.de/index.php/s/KTheq78enA
  * Paper by [Karniadakis and coauthors](https://arxiv.org/abs/2105.09506)
  * Presentation: `17-0***.jpg`
 
-## 20 Studying abroad (maybe a Master in Magdeburg)
+## 18 Convolutional Neural Networks
 
-* [page with links to the Master programmes in English](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
-* [Whiteboard with the notes](files/20-study-abroad.png)
+ * Presentation: `18-0***.jpg`
+
+## 19 PINN ctd. and Studying abroad (maybe a Master in Magdeburg)
+
+### A more general look on PINN and Examples
+
+ * References:
+   * [Overview on PINN](https://www.nature.com/articles/s42254-021-00314-5?proof=t+target%3D)
+   * [PINN for Flows (Open Access)](https://arxiv.org/abs/2105.09506)
+ * Presentations:
+ * Overview: `19-01-PINN-ctd.jpg`
+ * Examples: `19-02-PINN-stories.jpg`
+
+### Doing a Master or PhD in Germany
+
+For all questions around studying abroad, contact the SHU international office.
+
+* [Master of *Data and Knowledge Engineering* (Magdeburg)](https://www.ovgu.de/en/Study/Study+Programmes/Master/Data+and+Knowledge+Engineering.html)
+* [Master of Data Science (Erlangen)](https://www.math.fau.de/studium/im-studium/masterstudiengaenge/master-data-science/)
+* [page with links to the Master programmes in English (in Magdeburg)](https://www.ovgu.de/unimagdeburg/en/Study/Study+Programmes/Study+Programmes+in+English-p-48822.html)
+* [PhD Graduate School *MathCoRe*](https://www.mathcore.ovgu.de/) -- we are hiring :smile:
+* Presentation: `19-03-study-in-G.jpg`
+
+## 20 Introduction to `PyTorch`
+
+ * [Link to the Notebooks](https://github.com/harshit-kapadia/pytorch_learn)
 
 
 # Little Chinese Dictionary
